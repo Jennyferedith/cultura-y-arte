@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?fvb1x0');
+  src:  url('fonts/icomoon.eot?fvb1x0#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fvb1x0') format('truetype'),
+    url('fonts/icomoon.woff?fvb1x0') format('woff'),
+    url('fonts/icomoon.svg?fvb1x0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow_drop_down:before {
+  content: "\e5c5";
+}
+.icon-phone:before {
+  content: "\e0cd";
+}
+.icon-clear_all:before {
+  content: "\e0b8";
+}
+.icon-dehaze:before {
+  content: "\e3c7";
+}
+.icon-my_location:before {
+  content: "\e55c";
+}
+.icon-location_searching:before {
+  content: "\e1b7";
+}
+.icon-map:before {
+  content: "\e55b";
+}
+.icon-phone_forwarded:before {
+  content: "\e61c";
+}
+.icon-phone_in_talk:before {
+  content: "\e61d";
+}
+.icon-storage:before {
+  content: "\e1db";
+}
+.icon-map1:before {
+  content: "\e025";
+}
+.icon-map-pin:before {
+  content: "\e047";
+}
+.icon-facebook:before {
+  content: "\e05d";
+}
+.icon-twitter:before {
+  content: "\e05e";
+}
+.icon-tumblr:before {
+  content: "\e061";
+}
+.icon-tumblr1:before {
+  content: "\e900";
+  color: #36465d;
+}
+.icon-gmail:before {
+  content: "\e901";
+  color: #d14836;
+}
+.icon-vimeo:before {
+  content: "\e902";
+  color: #1ab7ea;
+}
+.icon-instagram:before {
+  content: "\e903";
+  color: #e4405f;
+}
+.icon-facebook1:before {
+  content: "\e904";
+  color: #3b5998;
+}
+.icon-pinterest:before {
+  content: "\e905";
+  color: #bd081c;
+}
+.icon-instapaper:before {
+  content: "\e90c";
+}
+.icon-google:before {
+  content: "\e906";
+  color: #4285f4;
+}
+.icon-microsoftoutlook:before {
+  content: "\e907";
+  color: #0072c6;
+}
+.icon-youtube:before {
+  content: "\e908";
+  color: #f00;
+}
+.icon-linkedin:before {
+  content: "\e909";
+  color: #0077b5;
+}
+.icon-twitter1:before {
+  content: "\e90a";
+  color: #1da1f2;
+}
+.icon-trulia:before {
+  content: "\e90b";
+  color: #53b50a;
+}

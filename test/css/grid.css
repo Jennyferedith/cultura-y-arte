@@ -1,0 +1,17 @@
+.contenedor ul {
+	display: grid;
+	grid-template-columns: 2.3fr 2.3fr 2.3fr 2.3fr 2.3fr 0.7fr 0.7fr 0.7fr;
+}
+
+.logo {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 135px 1fr;
+
+}
+.info {
+	display: grid;
+	grid-gap: 15px;
+	grid-template-columns: 1fr 1fr;
+	margin: 5px;
+}
